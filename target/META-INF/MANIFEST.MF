@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.8.1
+Built-By: ANIRUDH RAUTELA
+Build-Jdk: 21.0.3
+Class-Path: junit-3.8.1.jar jackson-databind-2.13.2.2.jar jackson-core-2
+ .13.2.jar jackson-annotations-2.13.2.jar
+Main-Class: com.test.paper.Test
+
